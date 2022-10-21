@@ -1,0 +1,3 @@
+displayName = Merge Dragons! Vanity
+author = Nimble-Bubble
+version = 0.1
